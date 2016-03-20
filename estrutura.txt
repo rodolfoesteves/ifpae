@@ -1,0 +1,41 @@
+# Estrutura do Repositorio 
+
+
+-- Raiz
+README.md - Informação sobre o projeto, descrição e logo.
+estrutura.txt - Arquivo indicado  o  que  contém cada diretório e subdiretórios.
+
+-- Diretórios 
+
+
+* Documentação [ Pasta com documentos e atividades do projeto ]
+
+1 - Caso de Uso. md -> Arquivo .md com caso de uso do projeto 
+2 - Definição de Ferramentas.md -> Arquivo .md com a definição das ferramentas que serão utilizadas no projeto. 
+3 - Elevator Statement -> Atividade da matéria Qualidade de Software
+4 - Product Visual Box -> Atividade da matéria Qualidade de Software
+5 - Repositório GIT - Arquivo .md  com visualização da estrutura atual do repositório gerada pela ferramenta git-picture
+
+* css [ Pasta com arquivos css ]
+1 - cssfile.css - arquivo .css
+
+* html [Pasta com arquivos .html]
+1 - index - páginal inicial do projeto IFPAE
+
+* javascript [Pasta com arquivos js]
+1 - script.js - arquivo .js
+
+*php [Pasta com arquivos .php]
+1 - form.php - arquivo .php
+
+* resources [Pasta com images, e outros arquivos necessários para o projeto, maioria relacionados a U.I e U.X]
+1- bus_icon.png 
+2- food_icon.png
+3- home_icon.png
+4- school_icon.png
+
+
+* tests [Pasta para arquivos de testes]
+1 - ValidateForm.java
+
+
