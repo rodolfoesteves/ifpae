@@ -7,3 +7,9 @@
 ## Estrutura de Diretórios 
 
 ![screenshot from 2016-03-20 20 17 36](https://cloud.githubusercontent.com/assets/8259531/13908003/e92023e2-eed8-11e5-88c2-ba70ea710233.png)
+
+
+## Alunos:
+- Daniel Luz Alves
+- Luis Henrique
+- Thiago Coelho
