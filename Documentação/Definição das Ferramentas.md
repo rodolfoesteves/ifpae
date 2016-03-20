@@ -1,9 +1,10 @@
-#Definição das Ferramentas  - 20/03/2016  
-
+# Desenvolvimento Web - Projeto Final - Definição das Ferramentas - 20/03/2016
 # Alunos : 
 * Daniel Luz Alves
 * Luiz Henrique 
 * Thiago Coelho
+* 
+#Definição das Ferramentas  - 20/03/2016  
 
 As ferramentas foram selecionadas pelo grupo por satisfazerem as seguintes necessidades:
 
