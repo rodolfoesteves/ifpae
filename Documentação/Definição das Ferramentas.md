@@ -35,3 +35,4 @@ As ferramentas foram selecionadas pelo grupo por satisfazerem as seguintes neces
 <img src="https://cloud.githubusercontent.com/assets/8259531/13906466/6cd8c5f0-eeb5-11e5-9095-500bee37f56b.png" width=140px height=100px />
 <img src="https://cloud.githubusercontent.com/assets/8259531/13906469/6d32a2fa-eeb5-11e5-9c08-f3ab726340ff.png" width=150px height=100px />
 
+**Disclaimer: All images are copyright to their respective owners.**
