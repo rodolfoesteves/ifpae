@@ -1,5 +1,9 @@
-# Estrutura do Repositorio 
+# Estrutura do Repositorio  - Desenvolvimento Web - 23/10/2016
 
+Alunos:
+Daniel Luz Alves
+Luis Henrique
+Thiago Coelho
 
 -- Raiz
 README.md - Informação sobre o projeto, descrição e logo.
