@@ -1,9 +1,5 @@
 # Desenvolvimento Web - Projeto Final - Definição das Ferramentas - 20/03/2016
-# Alunos : 
-* Daniel Luz Alves
-* Luiz Henrique 
-* Thiago Coelho
-* 
+ 
 #Definição das Ferramentas  - 20/03/2016  
 
 As ferramentas foram selecionadas pelo grupo por satisfazerem as seguintes necessidades:
@@ -43,3 +39,9 @@ As ferramentas foram selecionadas pelo grupo por satisfazerem as seguintes neces
 <img src="https://cloud.githubusercontent.com/assets/8259531/13906469/6d32a2fa-eeb5-11e5-9c08-f3ab726340ff.png" width=180px height=150px />
 
 **Disclaimer: All images are copyright to their respective owners.**
+
+
+# Alunos : 
+* Daniel Luz Alves
+* Luiz Henrique 
+* Thiago Coelho
