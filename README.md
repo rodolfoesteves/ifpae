@@ -9,8 +9,8 @@
 - Projeto de Sistemas I
 
 ### Integrantes:
-1. **Daniel Luz Alves** - Prontuário: 152086-5 | 
-2. **Luiz Henrique** - Prontuário:   
+1. **Daniel Luz Alves** - Prontuário: 152086-5  
+2. **Luis Henrique** - Prontuário:   
 3. **Thiago Coelho** - Prontuário:  
 
 ### Objetivo 
