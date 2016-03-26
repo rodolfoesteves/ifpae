@@ -1,5 +1,7 @@
 
+<center>
 ![ifpae_logo](https://cloud.githubusercontent.com/assets/8259531/14061146/8a7ec45a-f357-11e5-99d2-ff2806e4a726.png)
+</center>
 
 
 # IFPAE - Programa de Assistência Estudantil 
