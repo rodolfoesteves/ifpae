@@ -1,0 +1,130 @@
+<!doctype html>
+<html>
+<head>
+<div class="bd-pageheader">
+      <div class="container-header">
+        
+  <h1 class="text-header">Formulário de Inscrição</h1>
+  <h3 class="text-header">Insira as informações, anexe os documentos necessários e envie o formulário.</h3>
+
+      </div>
+</div>         <meta charset="utf-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IFPAE - Programa de Assitência Estudantil</title>
+<!-- Bootstrap do projeto -->
+<link href="css/bootstrap.css" rel="stylesheet">
+    
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> 
+    
+</head>
+      <body>
+<div>
+<form action="adicionar_inscricao.php" method="post">
+    <h1 class="show" > Identificação do Estudante </h1>
+    <div class="container-fluid">
+  <div class="checkbox">
+    <label>
+      <input type="checkbox" class="checkbox">   Já participei da assistência estudantil no semestre anterior.
+    </label>
+    </div>
+<div class="form-group">
+  <fieldset class="form-group col-lg-10">
+    <label for="nome_input">Nome Completo</label>
+    <input type="name" class="form form-control" id="nome_input" placeholder="Digite o seu nome completo">
+    <small class="text-muted">Não vamos compartilhar os seus dados com ninguém.</small>
+  </fieldset>
+  
+  <fieldset class="form-group col-lg-3">
+    <label for="prontuario_input">Prontuário</label>
+    <input type="text" class="form-control" id="prontuario_input" placeholder="Nº do prontuário">
+    </fieldset>
+  
+  <fieldset class="form-group col-lg-3">
+    <label for="modulo_ano_input">Módulo / Ano</label>
+    <input type="text" class="form-control" id="modulo_ano_input" placeholder="Módulo / Ano">
+  </fieldset>
+  
+    <fieldset class="form-group col-lg-4">
+      <label for="periodo_aula_input">Período de Aulas</label>
+      <div class="radio">
+        <label>
+          <input type="radio" name="gridRadios" id="rd_1" value="option2">
+          Matutino
+        </label>
+        <label>
+          <input type="radio" name="gridRadios" id="rd_2" value="option3">
+          Vespertino
+        </label>
+        <label>
+          <input type="radio" name="gridRadios" id="rd_3" value="option3">
+          Noturno
+         </label>
+       </div>
+    </fieldset>
+    </div>
+    <div class="form-group"> </div>
+  
+    <fieldset class="form-group col-lg-3">
+    <label for="idade_input">Idade</label>
+    <input type="text" class="form-control" id="idade_input" placeholder="Idade">
+    </fieldset>
+    
+    <fieldset class="form-group col-lg-2">
+      <label for="data_input">Data de Nascimento</label>
+      <input type="date" class="form-control">
+    </fieldset>
+    
+     <fieldset class="form-group col-lg-3">
+      <label for="naturalidade_input">Naturalidade</label>
+      <input type="text" class="form-control" id="naturalidade_input" placeholder="Local de nascimento">
+    </fieldset>
+    
+    <fieldset class="form-group col-lg-2">
+      <label for="estado_input">Estado</label>
+      <input type="text" class="form-control" id="estado_input" placeholder="Estado de origem">
+    </fieldset>
+    
+    <div>
+      <fieldset class="form-group col-lg-3">
+      <label for="estado_civil_input">Estado Civil</label>
+      <input type="text" class="form-control" id="estado_civil_input" placeholder="Solteiro, Casado, União Estável ou outros">
+    </fieldset>
+
+        <fieldset class="form-group col-lg-4">
+      <label for="sexo_input">Sexo</label>
+      <input type="text" class="form-control" id="sexo_input" placeholder="Genêro que se identifica, masculino ou feminino">
+    </fieldset>
+        </div>    
+        
+        <fieldset class="form-group col-lg-2">
+      <label for="rg_input">RG</label>
+      <input type="text" class="form-control" id="rg_input" placeholder="nº de RG">
+    </fieldset>
+    
+        
+        <fieldset class="form-group col-lg-2">
+      <label for="cpf_input">CPF</label>
+      <input type="text" class="form-control" id="cpf_input" placeholder="nº de CPF">
+    </fieldset>
+</div>
+ <div class="checkbox">
+        <label>
+      <input type="checkbox"> Declaro que as informações prestadas nesse questionário são verdadeiras, assim como declaro estar ciente da legislação pertinente à Política de Assistência Estudantil no IFSP - Resolução nº 135/2014 e Resolução nº 136/2014.
+    </label>
+</div>
+  <div class="text-center">
+  <button type="submit" class="btn btn-success">Enviar</button>
+</div>
+</form>
+  <footer> Todos os direitos reservados ® - 2016</footer>
+  <script src="js/jquery-1.11.2.min.js">
+        </script>
+  <script src="js/bootstrap.js"></script>
+        
+        <!-- inclui todos os plugins -->
+  <script> src="js/bootstrap.js"</script>
+</div>
+</body>
+</html>

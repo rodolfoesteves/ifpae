@@ -1341,6 +1341,11 @@ mark,
 .text-muted {
   color: #777;
 }
+.text-header{
+  color:#F9F9F9;
+  size:auto;
+  text-align: justify;
+}
 .text-primary {
   color: #337ab7;
 }
@@ -1581,6 +1586,14 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+
+.container-header {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:#02E64D;
 }
 @media (min-width: 768px) {
   .container {
@@ -3175,6 +3188,10 @@ fieldset[disabled] .btn-success.active {
   color: #5cb85c;
   background-color: #fff;
 }
+.btn-sucess-form{
+  color:#4DCB7E;
+  	
+}
 .btn-info {
   color: #fff;
   background-color: #5bc0de;
@@ -3224,6 +3241,12 @@ fieldset[disabled] .btn-info.active {
   color: #fff;
   background-color: #f0ad4e;
   border-color: #eea236;
+}
+.btn-warning_login {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  margin-left:25px;
 }
 .btn-warning:hover,
 .btn-warning:focus,
